@@ -1,0 +1,23 @@
+num_categories: 3
+test_data:
+  'False': 853
+  aspect_avg_len: 1.481828839390387
+  aspect_max_len: 11
+  negative: 142
+  neutral: 59
+  positive: 652
+  sentence_avg_len: 19.20046893317702
+  sentence_max_len: 70
+  sentence_min_len: 5
+  total: 853
+train_data:
+  'False': 2572
+  aspect_avg_len: 1.4043545878693624
+  aspect_max_len: 23
+  negative: 549
+  neutral: 212
+  positive: 1811
+  sentence_avg_len: 19.111975116640746
+  sentence_max_len: 79
+  sentence_min_len: 3
+  total: 2572

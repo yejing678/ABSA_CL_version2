@@ -1,0 +1,280 @@
+This $T$ was DELICIOUS!!
+place
+1
+0
+The $T$ is extremely friendly.
+staff
+1
+0
+My Mom & I each had the $T$, while my Dad & Brother had a Reuben sandwich.
+fish sandwich
+0
+1
+My Mom & I each had the fish sandwich, while my Dad & Brother had a $T$.
+Reuben sandwich
+0
+1
+The $T$ was very good, but the Reuben was to die for!
+fish
+1
+0
+The fish was very good, but the $T$ was to die for!
+Reuben
+-1
+0
+The $T$ is sometimes hit or miss.
+service
+-1
+0
+On top of being extremely large portions, $T$ was incredibly affordable.
+it
+1
+0
+This $T$ should have a lot more reviews - but I'm glad it doesn't, they don't need to get any busier.
+place
+0
+1
+The $T$ is AWESOME!
+food
+1
+0
+As the lunch hour went on, $T$ were getting busy.
+they
+0
+1
+I'm sorry, but this $T$ kicks Primanti Bros.  butt on the taste factor.
+place
+1
+1
+lots of $T$ and sandwiches.
+fried food
+0
+0
+lots of fried food and $T$.
+sandwiches
+0
+0
+I tried the $T$, came out fried extra crispy on the ends, if there is such a thing as fish jerky a third of the sandwich would have qualified, it was just ok.
+fish sandwich
+0
+1
+Our $T$ arrived and our server conversed with us some more about the area.
+drinks
+0
+1
+Our drinks arrived and our $T$ conversed with us some more about the area.
+server
+0
+1
+Eventually, our $T$ arrived -- both piping hot.
+entrees
+0
+0
+$T$ didn't taste bad, but I swear that it is made by Stouffers.
+It
+1
+0
+The $T$ came rather quickly to take my drink order.
+waitress
+1
+0
+But the $T$'s good and hot and refreshed often as the service is good, andlocal with many long time folks working here.
+coffee
+1
+0
+But the coffee's good and hot and refreshed often as the $T$ is good, andlocal with many long time folks working here.
+service
+1
+0
+I miss this $T$.
+place
+-1
+1
+-Crowded: Get $T$ early and expect to wait.
+there
+-1
+0
+Don't expect fancy $T$.
+decor
+-1
+0
+Because I honestly can't imagine how much $T$ that is.
+food
+0
+1
+The fact that none of the $T$ match and I noticed a sign at the front register that said, \"We need mugs\" just makes me love this place even more.
+plates
+-1
+0
+The fact that none of the plates match and I noticed a sign at the front register that said, \"We need mugs\" just makes me love this $T$ even more.
+place
+1
+0
+Good $T$.
+food
+1
+0
+Huge $T$.
+portions
+1
+0
+Friendly $T$.
+staff
+1
+0
+The $T$ are dark, with writing and signatures of semi famous people all over the place.
+walls
+-1
+0
+I give the $T$ 2/5.
+service
+-1
+0
+While our $T$ was a really nice girl, she wasn't on top of anything at all.
+waitress
+-1
+0
+Don't expect the best $T$ ever.
+service
+-1
+1
+If you're looking for good Irish food and a cold pint, you can't go wrong at the $T$.
+Pour House
+1
+1
+I have no idea who gave this $T$ high reviews but they must either own the place or be time travelers from back in the day when this place might not have sucked.
+place
+-1
+1
+I have no idea who gave this place high reviews but $T$ must either own the place or be time travelers from back in the day when this place might not have sucked.
+they
+-1
+1
+In short, unless you like your dinner with a side of disappointment and depression, I'd probably avoid this $T$ like the plague.
+place
+-1
+0
+Best $T$ in the Burgh.
+Irish food
+1
+0
+Great $T$ too.
+bar food
+1
+0
+The $T$ is maybe a bit surly and it's not the cleanest, nor the best decor.
+service
+-1
+0
+The service is maybe a bit surly and it's not the cleanest, nor the best $T$.
+decor
+-1
+0
+Same lousy $T$.
+service
+-1
+0
+I really really want this $T$ to do better.
+place
+-1
+1
+Had a craving for a $T$ and found them on Yelp.
+shrimp po boy
+0
+1
+This review is based on the $T$.
+food
+0
+1
+We came in on a quiet Monday night for a quick $T$ after work.
+dinner
+0
+1
+We walked by this $T$ and decided to give it a try.
+place
+0
+1
+We sat $T$ (there a couple tables) on a Monday afternoon.
+outside
+0
+1
+By the way, I am not attempting to get all Diane Kennedy on you but the $T$ at LDM is not authentic Mexican cuisine!
+food
+-1
+0
+The $T$ in New Mexico is not authentic Mexican cuisine either.
+cuisine
+-1
+0
+To the $T$ - please at least \"upgrade\" to Jose Cuervo margarita mix.
+owners
+-1
+1
+Now for the complaints - the $T$ is incredibly rude and pretentious, the wait sucks, the place is noisy, the tables are too close together, the decor is gaudy and the food will burn a hole in your mouth going in and going out.
+staff
+-1
+0
+Now for the complaints - the staff is incredibly rude and pretentious, the wait sucks, the $T$ is noisy, the tables are too close together, the decor is gaudy and the food will burn a hole in your mouth going in and going out.
+place
+-1
+0
+You can wait a long time for a $T$, so be prepared to wait, but if you go during off times, like after the lunch crowd or right before the dinner crowd you shouldn't have a wait.
+table
+-1
+0
+Good $T$ with a very diverse crowd that I always find entertaining.
+food and drink
+1
+0
+Good food and drink with a very diverse $T$ that I always find entertaining.
+crowd
+1
+0
+And for me, for this $T$, that's fine.
+place
+1
+0
+The $T$ is good ol' sonoran-style and I changed up my regular order to include green chile .
+food
+1
+0
+The food is good ol' sonoran-style and I changed up my regular $T$ to include green chile .
+order
+0
+1
+Great $T$, fast and very pleasant.
+service
+1
+0
+The $T$ was very helpful and suggested the Pollo Fundido.
+waiter
+1
+0
+Tomato sauce based $T$.
+salsa
+0
+1
+We were in the $T$ and decided to try something different than what we typically do for lunch.
+area
+0
+1
+We were in the area and decided to try something different than what we typically do for $T$.
+lunch
+0
+1
+Let me first start by telling you how I found this $T$.
+place
+0
+1
+We only tried one $T$, the paneer manchurian (or was it chili paneer?) 
+dish
+0
+1
+Only the kids got $T$.
+drinks
+0
+1
+Come here for the $T$:  The absolute best Mexican in Phoenix.
+food
+1
+0
